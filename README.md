@@ -6,7 +6,7 @@ This project implements a solution to the coding challenge specified in `/doc/Ch
 
 Clone the base from the repo:
 
-`git clone git@github.com:alexisibarra/QuasarFireOperation.git`
+`git clone git@github.com:alexisibarra/QuasarFire.git`
 
 Install all the dependencies
 
