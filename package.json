@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
-    "prerun": "tsc",
-    "exec": "node ./build/index.js"
+    "prestart": "tsc",
+    "start": "node ./build/index.js"
   },
   "author": "Alexis Ibarra",
   "license": "ISC",
